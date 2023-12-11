@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fabio012119" alt="fabio012119" /></a> </p>
 
-- 🌱 I’m currently learning **.NET Framework**
+- 🌱 I’m currently learning **.NET**
 
 - 📫 How to reach me **fabiooosara@gmail.com**
 
