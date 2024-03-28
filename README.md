@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fabio</h1>
 <h3 align="center">A frontend developer from Greece</h3>
 
-- 🌱 I’m currently learning **.NET**
-
 - 📫 How to reach me **fabiooosara@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
