@@ -13,3 +13,11 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio-Saraseli&layout=compact&langs_count=8&theme=transparent&hide_border=true" />
 </p>
+
+## Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fabio-Saraseli/Fabio-Saraseli/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fabio-Saraseli/Fabio-Saraseli/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Fabio-Saraseli/Fabio-Saraseli/output/github-contribution-grid-snake.svg" />
+</picture>
