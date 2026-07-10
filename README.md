@@ -11,7 +11,10 @@
 ## Most Used Languages
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio-Saraseli&layout=compact&langs_count=8&theme=transparent&hide_border=true" />
+  <img
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=Fabio-Saraseli&layout=compact&langs_count=8&theme=transparent&hide_border=true"
+  alt="Fabios Saraseli Most Used Languages"
+/>
 </p>
 
 ## Contribution Activity
